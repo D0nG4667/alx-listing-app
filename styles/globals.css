@@ -1,0 +1,19 @@
+/* globals.css - Tailwind v4 compatible */
+
+/* 1. Load Tailwind’s preflight (reset + base styles) */
+@import "tailwindcss/preflight";
+
+/* 2. Global base styles (HTML elements, typography, etc.) */
+@layer base {
+
+}
+
+/* 3. Custom reusable components (buttons, cards, etc.) */
+@layer components {
+
+}
+
+/* 4. Custom utilities (helper classes beyond Tailwind defaults) */
+@layer utilities {
+
+}
