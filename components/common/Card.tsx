@@ -44,8 +44,7 @@ const Card: React.FC<CardProps> = ({
           <Image
             src={image}
             alt={title}
-            width={400}
-            height={300}
+            fill
             className="object-cover"
             sizes="(max-width: 768px) 100vw, 400px"
           />
